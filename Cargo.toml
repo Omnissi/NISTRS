@@ -16,13 +16,3 @@ statrs = "0.15.0"
 rayon = "1.5.2"
 cfg-if = "1.0.0"
 rustfft = "6.0.1"
-
-[badges]
-appveyor = { repository = "Omnissi/NISTRS" }
-circle-ci = { repository = "Omnissi/NISTRS" }
-gitlab = { repository = "Omnissi/NISTRS" }
-travis-ci = { repository = "Omnissi/NISTRS" }
-codecov = { repository = "Omnissi/NISTRS" }
-coveralls = { repository = "Omnissi/NISTRS" }
-is-it-maintained-issue-resolution = { repository = "Omnissi/NISTRS" }
-is-it-maintained-open-issues = { repository = "Omnissi/NISTRS" }

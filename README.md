@@ -1,5 +1,5 @@
 [![Rust](https://github.com/Omnissi/NISTRS/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/Omnissi/NISTRS/actions/workflows/rust.yml)
-[![Coverage Status](https://codecov.io/gh/Omnissi/NISTRS/branch/master/graph/badge.svg)](https://codecov.io/gh/Omnissi/NISTRS)
+[![codecov](https://codecov.io/gh/Omnissi/NISTRS/branch/main/graph/badge.svg?token=gHuJhZ2bgc)](https://codecov.io/gh/Omnissi/NISTRS)
 [![Coverage Status](https://coveralls.io/repos/github/Omnissi/NISTRS/badge.svg?branch=branch)](https://coveralls.io/github/Omnissi/NISTRS?branch=master)
 [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/Omnissi/NISTRS.svg)](https://isitmaintained.com/project/Omnissi/NISTRS "Average time to resolve an issue")
 [![Percentage of issues still open](https://isitmaintained.com/badge/open/Omnissi/NISTRS.svg)](https://isitmaintained.com/project/Omnissi/NISTRS "Percentage of issues still open")
