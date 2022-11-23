@@ -1,7 +1,4 @@
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/Omnissi/NISTRS?branch=master&svg=true)](https://ci.appveyor.com/project/Omnissi/NISTRS/branch/master)
-[![Build Status](https://circleci.com/gh/Omnissi/NISTRS/tree/master.svg?style=shield)](https://circleci.com/gh/Omnissi/NISTRS/cargo-readme/tree/master)
-[![Build Status](https://gitlab.com/Omnissi/NISTRS/badges/master/pipeline.svg)](https://gitlab.com/Omnissi/NISTRS/commits/master)
-[![Build Status](https://travis-ci.org/Omnissi/NISTRS.svg?branch=master)](https://travis-ci.org/Omnissi/NISTRS)
+[![Rust](https://github.com/Omnissi/NISTRS/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/Omnissi/NISTRS/actions/workflows/rust.yml)
 [![Coverage Status](https://codecov.io/gh/Omnissi/NISTRS/branch/master/graph/badge.svg)](https://codecov.io/gh/Omnissi/NISTRS)
 [![Coverage Status](https://coveralls.io/repos/github/Omnissi/NISTRS/badge.svg?branch=branch)](https://coveralls.io/github/Omnissi/NISTRS?branch=master)
 [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/Omnissi/NISTRS.svg)](https://isitmaintained.com/project/Omnissi/NISTRS "Average time to resolve an issue")
