@@ -4,7 +4,7 @@ version = "0.1.1"
 edition = "2021"
 license = "MIT"
 authors = ["Sergey Negodyaev <negodyaev.sergey@outlook.com>"]
-description = "his crate implements statistical tests according to the NIST standard"
+description = "This crate implements statistical tests according to the NIST standard"
 readme = "README.md"
 repository = "https://github.com/Omnissi/NISTRS"
 
