@@ -64,8 +64,6 @@ impl BitsData {
             }
         }
 
-        res.ones = res.data.iter().filter(|x| **x).count();
-
         res
     }
 
